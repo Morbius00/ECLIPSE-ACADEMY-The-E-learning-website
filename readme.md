@@ -1,9 +1,7 @@
-## ECLIPSE ACADEMY (E-learning Website)
-An educational website for students and programmers 
+#ECLIPSE-ACADEMY-The-E-learning-website
 
+An Educational 🏫👨‍🏫 website created for the students and the coders. Easy to access free of cost ,100+ videos more and more . 
 
-
-
-Try this out::  https://kodepirate.github.io/Eclipse-Academy/
+check our website through :https://kodepirate.github.io/Eclipse-Academy/
 
 If you like my project, give it a star  😁😁😁
